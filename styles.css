@@ -96,4 +96,16 @@ section .main .main_content .main_text p{
     top: 85px;
     left: 5%;
 }
-
+section .main .main_content .main_image img{
+    width: 650px;
+    position: relative;
+    left: 20px;
+    top: 75px;
+}
+section .main .social_icon{
+    position: absolute;
+    top: 50%;
+    left: 98%;
+    transform: translate(-50%,-50%);
+    font-size: 19px;
+}
